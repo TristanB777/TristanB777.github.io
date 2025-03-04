@@ -17,3 +17,8 @@ a:hover {
 #toolbar {
     display: flex;
 }
+img {
+    width: 20%;
+    float: left;
+    margin: 0px 10px 10px 0px;
+}
