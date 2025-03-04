@@ -1,0 +1,16 @@
+a,
+a:visited {
+    border: 1px solid white;
+    color: #FFF;
+    background-color: black;
+    padding: 4px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(28, 11, 104);
+}
+
+body {
+    background-color: #333;
+}
