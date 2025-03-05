@@ -28,4 +28,8 @@ p {
     background-color: #d3ceff;
     color: rgb(20, 13, 83);
     border-style: dashed;
+    overflow: auto;
+    padding: 10px;
+    margin-bottom: 20px;
 }
+
